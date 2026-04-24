@@ -1,0 +1,28 @@
+# OS / editor noise
+Thumbs.db
+.DS_Store
+
+# Local AI / session sidecars
+.claude/
+.claudian/
+
+# Obsidian local workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/workspace
+
+# Community plugin install payloads
+.obsidian/plugins/**/main.js
+.obsidian/plugins/**/manifest.json
+.obsidian/plugins/**/styles.css
+.obsidian/plugins/**/obsidian_askpass.sh
+
+# Logs / temp
+*.log
+*.tmp
+*.temp
+
+# Keep content assets tracked by default.
+# Current attachment plugin writes to ./assets/${noteFileName},
+# so do not ignore assets/.

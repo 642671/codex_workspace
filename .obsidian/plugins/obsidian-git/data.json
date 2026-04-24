@@ -1,0 +1,12 @@
+{
+  "autoSaveInterval": 10,
+  "autoPullOnBoot": true,
+  "pullBeforePush": true,
+  "autoCommitMessage": "vault backup: {{date}}",
+  "commitMessage": "vault backup: {{date}}",
+  "refreshSourceControl": true,
+  "refreshSourceControlTimer": 7000,
+  "showStatusBar": true,
+  "showBranchStatusBar": true,
+  "showFileMenu": true
+}
