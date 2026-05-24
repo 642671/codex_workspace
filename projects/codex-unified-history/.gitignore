@@ -1,0 +1,13 @@
+.DS_Store
+*.log
+*.err
+*.out
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.jsonl
+backups/
+removed-session-files/
+orphan-session-files/
+
