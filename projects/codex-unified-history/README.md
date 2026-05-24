@@ -35,8 +35,8 @@ docs/verification.md                      # 校验和排障命令
 ## 安装
 
 ```bash
-git clone https://github.com/<your-name>/codex-unified-history.git
-cd codex-unified-history
+git clone https://github.com/642671/codex_workspace.git
+cd codex_workspace/projects/codex-unified-history
 bash scripts/install.sh
 ```
 
